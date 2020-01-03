@@ -1,6 +1,5 @@
 language: python
 python:
-- '2.7'
 - '3.6'
 
 install:
@@ -10,4 +9,4 @@ script:
     - travis-sphinx build
 
 after_success:
-      - travis-sphinx deploy
+    - travis-sphinx deploy
