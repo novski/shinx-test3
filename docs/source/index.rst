@@ -10,7 +10,7 @@ Welcome to sphinx-test3-with-spinx-travis's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   test/test.rst
+   test/test
 
 
 Indices and tables
